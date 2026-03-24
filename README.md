@@ -25,18 +25,22 @@ Java practice program# Java Basics
 This repository contains my Java practice programs.
 ## 📌 Project 2 :📱 Contact Management System
 Developed a Contact Management System using Java with CRUD operations and in-memory data storage.
-📌 Project Description
+
+ ## Project Description
 This is a simple command-line based application that allows users to manage contact details such as name, phone number, and email address efficiently.
-🚀 Features
+
+ ## 🚀 Features
 Add Contact
 View Contacts
 Update Contact
 Delete Contact
-🛠️ Technologies Used
+
+## 🛠️ Technologies Used
 Java
 ArrayList
 Scanner
-▶️ How to Run
+
+## ▶️ How to Run
 Open in Eclipse
 Run ContactManager.java
 Follow menu instructions
