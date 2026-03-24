@@ -23,8 +23,23 @@ A GUI-based application developed using Java Swing to manage inventory items eff
 Java practice program# Java Basics
 
 This repository contains my Java practice programs.
-
-
+## 📌 Project 1:📱 Contact Management System
+Developed a Contact Management System using Java with CRUD operations and in-memory data storage.
+📌 Project Description
+This is a simple command-line based application that allows users to manage contact details such as name, phone number, and email address efficiently.
+🚀 Features
+Add Contact
+View Contacts
+Update Contact
+Delete Contact
+🛠️ Technologies Used
+Java
+ArrayList
+Scanner
+▶️ How to Run
+Open in Eclipse
+Run ContactManager.java
+Follow menu instructions
 
 
 ## Topics Covered
