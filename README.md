@@ -29,21 +29,21 @@ Developed a Contact Management System using Java with CRUD operations and in-mem
  ### Project Description
 This is a simple command-line based application that allows users to manage contact details such as name, phone number, and email address efficiently.
 
- ### 🚀 Features
--Add Contact
--View Contacts
--Update Contact
--Delete Contact
+ ### 🚀 🔹 Features
+   -Add Contact
+   -View Contacts
+   -Update Contact
+   -Delete Contact
 
-### 🛠️ Technologies Used
--Java
--ArrayList
--Scanner
+### 🛠️🔹 Technologies Used
+  -Java
+  -ArrayList
+  -Scanner
 
-### ▶️ How to Run
--Open in Eclipse
--Run ContactManager.java
--Follow menu instructions
+### ▶️🔹 How to Run
+  -Open in Eclipse
+  -Run ContactManager.java
+  -Follow menu instructions
 
 
 ## Topics Covered
